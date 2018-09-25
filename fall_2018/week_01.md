@@ -1,22 +1,18 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+>the current mxm project is devided into 4 directions and the current in campus group is working
+on 3 of them. I will be working on deep-learning synthesis project and wrap up harmony classfication. 
+I have already thought through the idea about how to implement the method(k-mean clusters).
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> Implement the harmony classification project.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> the bloking seems like the math behind the project, but I believe I can go through after few research
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> not much
